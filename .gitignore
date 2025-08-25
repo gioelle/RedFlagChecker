@@ -1,0 +1,7 @@
+# Ignore large binaries
+*.dll
+*.exe
+/Microservice/**/chromium/
+/Microservice/**/ms-playwright/
+/Microservice/**/clak-html-to-pdf/
+
